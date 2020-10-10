@@ -15,7 +15,7 @@ export default class CreateCategories1602192707807
             default: 'uuid_generate_v4()',
           },
           {
-            name: 'type',
+            name: 'title',
             type: 'varchar',
           },
           {
